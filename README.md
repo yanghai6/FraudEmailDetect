@@ -1,4 +1,4 @@
-# enron
+# Fraud Email Detection in Enron
 
 * Enron was one of the largest company in the U.S. in 2000, but went bankrupt in 2002 because fraud. In order to find out employees involved in the fraud, utilize maching learning and natural language processing algorithm to analyze the public email dataset of Enron.
 
